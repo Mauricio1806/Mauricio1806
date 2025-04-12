@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mauricio Esquivel de Siqueira Behrens!</h1>
 <h3 align="center">🎓 Production Engineer | 📊 Business & Data Analyst | 💻 BI & AI Enthusiast 🌍 Driven by purpose. Building solutions that empower people and create meaningful impact. I'm a passionate problem-solver with 3+ years of experience turning data into insights and strategies into action. I specialize in Business Intelligence, Process & Project Management, and Data Analytics, with hands-on skills in Python, SQL, Power BI, R, and Cloud Platforms (Azure, GCP).</h3>
 
-- 🌱 I’m currently learning **🐍 Python for data analysis, machine learning, and API integration 🧠 AI concepts (LLMs, prompt engineering, ethical AI) – from Google AI Essentials 💾 SQL (T-SQL & BigQuery) for data wrangling and advanced querying 📊 Looker Studio & Power BI for dashboard creation and business intelligence workflows 🖼️ HTML, CSS, JavaScript (Vanilla & React) to build and customize front-end data interfaces ⚙️ Power Apps & Power Automate to build low-code business applications 🌐 Back-end fundamentals using Flask (Python) and Node.js ☁️ Cloud services with Azure & AWS (data pipelines, storage, compute)**
+- 🌱 I’m currently learning **
+- 🐍 Python for data analysis, machine learning, and API integration
+- 💾 SQL (T-SQL & BigQuery) for data wrangling and advanced querying
+- 📊 Looker Studio & Power BI for dashboard creation and business intelligence workflows
+- 🖼️ HTML, CSS, JavaScript (Vanilla & React) to build and customize front-end data interfaces
+- ⚙️ Power Apps & Power Automate to build low-code business applications
+- 🌐 Back-end fundamentals using Flask (Python) and Node.js
+- ☁️ Cloud services with Azure & AWS (data pipelines, storage, compute)**
 
 - 👯 I’m looking to collaborate on **Projects involving Business Intelligence, Data Analytics, and Automation**
 
