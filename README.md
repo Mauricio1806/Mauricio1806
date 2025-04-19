@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mauricio-esquivel-de-siqueira-behrens-19273518b/](https://www.linkedin.com/in/mauricio-esquivel-de-siqueira-behrens-19273518b/)
 
-- ⚡ Fun fact **I’m on a mission to make the world more efficient, fair, and human-driven — one analysis at a time.**
+- ⚡ Fun fact **I’m on a mission to make the world more efficient, fair, and human-driven one analysis at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
