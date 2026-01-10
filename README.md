@@ -8,13 +8,13 @@ Purpose-driven professional building reliable data platforms and analytics produ
 ---
 
 ## About
-I’m a **Production Engineer turned Data Engineer** with **4+ years** delivering end-to-end solutions across **data engineering, BI, and automation**.
+I’m a Production Engineer turned Data Engineer with 4+ years delivering end-to-end solutions across data engineering, BI, and automation.
 
 I focus on:
-- building **cloud data pipelines** (batch and near real-time),
-- modeling **analytics-ready layers** (Bronze, Silver, Gold),
-- delivering **governed metrics and dashboards** for business teams,
-- improving **performance, cost, and reliability** through DataOps practices.
+- building cloud data pipelines (batch and near real-time),
+- modeling analytics-ready layers (Bronze, Silver, Gold),
+- delivering governed metrics and dashboards for business teams,
+- improving performance, cost, and reliability through DataOps practices.
 
 ---
 
@@ -88,6 +88,6 @@ Repo: https://github.com/Mauricio1806/<your-dashboard-repo>
 ---
 
 ## Vision
-To make technology a tool for inclusion, efficiency, and progress — using data and innovation to build a better, fairer, and more human world.
+To make technology a tool for inclusion, efficiency, and progress using data and innovation to build a better, fairer, and more human world.
 
 
