@@ -1,89 +1,91 @@
 # Hi, I'm Mauricio Esquivel de Siqueira Behrens
 
-**Data Engineer | Analytics Engineer | Production Engineer**  
-Azure • Databricks • PySpark • SQL • Delta Lake • Power BI
-
-Purpose-driven professional building reliable data platforms and analytics products that turn messy data into trusted decisions.
+**Data Engineer | Analytics Engineer**  
+Azure • AWS • Databricks • PySpark • SQL • Delta Lake 
+I build scalable data platforms and analytics solutions that transform raw data into reliable, decision-ready products.
 
 ---
 
 ## About
-I’m a Production Engineer turned Data Engineer with 4+ years delivering end-to-end solutions across data engineering, BI, and automation.
 
-I focus on:
-- building cloud data pipelines (batch and near real-time),
-- modeling analytics-ready layers (Bronze, Silver, Gold),
-- delivering governed metrics and dashboards for business teams,
-- improving performance, cost, and reliability through DataOps practices.
+Data Engineer with 4+ years of experience across data engineering, analytics, and business intelligence.
 
----
+My work involves designing and maintaining cloud-based data platforms, building robust ETL/ELT pipelines, and modeling analytics-ready datasets that support business operations and strategic decisions.
 
-## What I’m working on now
-- Azure Data Factory and Databricks orchestration
-- Lakehouse architecture with Delta Lake
-- Advanced SQL for analytics engineering and performance
-- Data quality and observability (checks, alerts, SLAs)
-- Generative AI for productivity and automation
+I operate across Azure and AWS environments, combining engineering discipline with business understanding to deliver production-ready data solutions.
 
 ---
 
-## Core Skills
+## Technical Focus
 
-**Data Engineering**
-- Databricks (PySpark), Delta Lake, ETL/ELT pipelines, APIs
-- Data modeling (star schema, dimensional modeling, medallion)
-
-**Cloud**
-- Azure (ADF, Storage, basic security concepts)
-- Google Cloud (foundations)
-
-**Analytics**
-- Power BI, Looker Studio, Tableau
-- KPI automation, executive dashboards, self-service analytics
-
-**Engineering Practices**
-- Git/GitHub, CI/CD fundamentals, documentation
-- Agile delivery (Scrum, Kanban), stakeholder management
+- Cloud data pipelines (batch and scalable processing)
+- Lakehouse architecture (Bronze / Silver / Gold)
+- Dimensional modeling and analytics engineering
+- Incremental loads and performance optimization
+- Data quality, validation, and monitoring practices
 
 ---
 
-## Tech Stack
-**Languages:** Python, SQL  
-**Data:** Databricks, Delta Lake, Spark, Azure Data Factory  
-**BI:** Power BI, Looker Studio, Tableau  
-**Tools:** Git/GitHub, Jira, Confluence, MS Project, Asana  
-**ML (when applicable):** scikit-learn, PyTorch, TensorFlow
+## Core Stack
+
+### Data Engineering
+- Python, SQL
+- PySpark, Delta Lake
+- ETL/ELT pipelines, API ingestion
+- Data modeling (star schema, medallion)
+
+### Cloud Platforms
+- Azure (Data Factory, Storage, integration patterns)
+- AWS (S3, EC2 fundamentals, data workflows)
+- Databricks
+
+### Analytics & BI
+- Power BI
+- KPI automation and executive reporting
+
+### Engineering Practices
+- Git/GitHub
+- Structured documentation
+- Agile delivery
+- Cost and performance awareness
 
 ---
 
 ## Selected Projects
 
-### Lakehouse Pipeline (Bronze / Silver / Gold)
-- End-to-end ingestion, transformation, and analytics layer
-- Incremental loads, Delta tables, performance optimization  
-Repo: https://github.com/Mauricio1806/<your-repo>
+### Lakehouse End-to-End Pipeline
+- Data ingestion → transformation → analytics layer
+- Medallion architecture
+- Incremental processing and optimization
 
-### YouTube / API Data Ingestion
-- API extraction, normalization, storage, and analytics dataset  
-Repo: https://github.com/Mauricio1806/youtube-playlist-etl
+### API Data Engineering Project
+- REST API extraction and normalization
+- Structured storage for analytics consumption
 
-### BI Dashboards (Operational & Executive)
-- Power BI dashboards with automated refresh and KPI governance  
-Repo: https://github.com/Mauricio1806/<your-dashboard-repo>
+### Business Intelligence Solutions
+- Automated KPI pipelines
+- Operational and executive dashboards
+
+Repositories include architecture and implementation details.
 
 ---
 
-## How I work
-- Business-first mindset: decision → metric → data product
-- Reliability over complexity
-- Cost and performance awareness
-- Clear documentation and ownership
+## How I Work
+
+- Business problem first, architecture second
+- Scalable and maintainable designs
+- Performance and cost-conscious engineering
+- Clear ownership and documentation
 
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/mauricio-esquivel-de-siqueira-behrens-19273518b  
-- Email: mauricio.esquivel1806@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/mauricio-behrens
+
+Email:
+mauricio.esquivel1806@gmail.com
 
 ---
 
