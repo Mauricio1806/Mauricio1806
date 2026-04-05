@@ -5,17 +5,23 @@
 ### Data Engineer • Analytics Engineer
 
 <p>
-  <a href="https://www.linkedin.com/in/mauricio-behrens"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:mauricio.esquivel1806@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Mauricio1806"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/mauricio-behrens">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mauricio.esquivel1806@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mauricio1806">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=flat-square&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/AWS-Data%20Workflows-orange?style=flat-square&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Databricks-Lakehouse-red?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Data%20Workflows-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-Lakehouse-EF3E42?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-Processing-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Analytics-blue?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Analytics-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Delta%20Lake-Medallion-00ADD8?style=flat-square" />
   <img src="https://img.shields.io/badge/Airflow-Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-Transformation-FF694B?style=flat-square&logo=dbt&logoColor=white" />
@@ -83,45 +89,38 @@ I approach data engineering with a practical mindset: clear architecture, scalab
 ## Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/Mauricio1806/Eurostat-Lakehouse-End-to-End-Data-Engineering-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1806&repo=Eurostat-Lakehouse-End-to-End-Data-Engineering-Project&theme=default&hide_border=true" />
+  <a href="https://github.com/Mauricio1806/SEC-EDGAR-Lakehouse-Batch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1806&repo=SEC-EDGAR-Lakehouse-Batch&hide_border=true" />
   </a>
-  <a href="https://github.com/Mauricio1806/youtube-playlist-etl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1806&repo=youtube-playlist-etl&theme=default&hide_border=true" />
+  <a href="https://github.com/Mauricio1806/Lakehouse-Batch-Project-Bronze-Silver-Gold-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1806&repo=Lakehouse-Batch-Project-Bronze-Silver-Gold-&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mauricio1806/eurostat_ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1806&repo=eurostat_ml&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1806&repo=eurostat_ml&hide_border=true" />
   </a>
-  <a href="https://github.com/Mauricio1806">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1806&repo=Mauricio1806&theme=default&hide_border=true" />
+  <a href="https://github.com/Mauricio1806/equity-research-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1806&repo=equity-research-platform&hide_border=true" />
   </a>
 </p>
 
----
-
-## GitHub Insights
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mauricio1806&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio1806&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mauricio1806&hide_border=true" />
+  <a href="https://github.com/Mauricio1806/Eurostat-Lakehouse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1806&repo=Eurostat-Lakehouse&hide_border=true" />
+  </a>
 </p>
 
 ---
 
 ## Engineering Approach
 
-- Clear architecture over unnecessary complexity  
-- Maintainability over fragile shortcuts  
-- Performance and cost awareness from the start  
-- Data products built for real business use  
-- Documentation and ownership as part of delivery  
+- Clear architecture over unnecessary complexity
+- Maintainability over fragile shortcuts
+- Performance and cost awareness from the start
+- Data products built for real business use
+- Documentation and ownership as part of delivery
 
 ---
 
