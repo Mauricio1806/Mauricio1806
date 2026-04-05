@@ -1,95 +1,91 @@
 # Hi, I'm Mauricio Esquivel de Siqueira Behrens
 
-**Data Engineer | Analytics Engineer**  
-Azure • AWS • Databricks • PySpark • SQL • Delta Lake 
-I build scalable data platforms and analytics solutions that transform raw data into reliable, decision-ready products.
+## Data Engineer | Analytics Engineer
+
+**Azure · AWS · Databricks · PySpark · SQL · Delta Lake · Power BI**
+
+I build scalable data platforms, lakehouse pipelines, and analytics-ready datasets for real business use.
 
 ---
 
-## About
+## Profile
 
 Data Engineer with 4+ years of experience across data engineering, analytics, and business intelligence.
 
-My work involves designing and maintaining cloud-based data platforms, building robust ETL/ELT pipelines, and modeling analytics-ready datasets that support business operations and strategic decisions.
-
-I operate across Azure and AWS environments, combining engineering discipline with business understanding to deliver production-ready data solutions.
+My work combines cloud data platforms, ETL/ELT pipelines, analytics engineering, and business-oriented data solutions. I focus on building reliable systems that move data from raw ingestion to decision-ready consumption.
 
 ---
 
-## Technical Focus
-
-- Cloud data pipelines (batch and scalable processing)
-- Lakehouse architecture (Bronze / Silver / Gold)
-- Dimensional modeling and analytics engineering
-- Incremental loads and performance optimization
-- Data quality, validation, and monitoring practices
-
----
-
-## Core Stack
+## Technical Highlights
 
 ### Data Engineering
-- Python, SQL
-- PySpark, Delta Lake
-- ETL/ELT pipelines, API ingestion
-- Data modeling (star schema, medallion)
+- Python and SQL for data pipelines and transformation
+- PySpark and Spark for scalable processing
+- ETL / ELT workflows and API ingestion
+- Data modeling for analytics and reporting
+- Incremental loading and pipeline optimization
 
-### Cloud Platforms
-- Azure (Data Factory, Storage, integration patterns)
-- AWS (S3, EC2 fundamentals, data workflows)
+### Cloud & Platform
+- Azure Data Factory
+- Azure Storage
+- AWS S3
+- AWS Athena
 - Databricks
+- Delta Lake
 
-### Analytics & BI
+### Analytics
 - Power BI
-- KPI automation and executive reporting
+- KPI automation
+- Operational and executive reporting
+- Analytics-ready datasets
 
 ### Engineering Practices
-- Git/GitHub
-- Structured documentation
+- Git / GitHub
+- Documentation
 - Agile delivery
-- Cost and performance awareness
+- Cost-aware design
+- Data quality mindset
+- Performance optimization
 
 ---
 
-## Selected Projects
+## Focus Areas
 
-### Lakehouse End-to-End Pipeline
-- Data ingestion → transformation → analytics layer
-- Medallion architecture
-- Incremental processing and optimization
-
-### API Data Engineering Project
-- REST API extraction and normalization
-- Structured storage for analytics consumption
-
-### Business Intelligence Solutions
-- Automated KPI pipelines
-- Operational and executive dashboards
-
-Repositories include architecture and implementation details.
+- Lakehouse architecture with Bronze / Silver / Gold layers
+- Cloud-based batch data pipelines
+- Analytics engineering and dimensional modeling
+- Data quality, validation, and observability
+- Maintainable and production-oriented data solutions
 
 ---
 
-## How I Work
+## Working Style
 
-- Business problem first, architecture second
-- Scalable and maintainable designs
-- Performance and cost-conscious engineering
-- Clear ownership and documentation
+- Business problem first
+- Simple and scalable architecture
+- Reliability over unnecessary complexity
+- Clear documentation and ownership
+- Data products designed for actual usage
+
+---
+
+## Stack at a glance
+
+| Area | Technologies |
+|---|---|
+| Languages | Python, SQL |
+| Processing | PySpark, Spark, Delta Lake |
+| Cloud | Azure, AWS |
+| Platform | Databricks, Azure Data Factory |
+| Analytics | Power BI |
+| Practices | Git, documentation, performance, data quality |
 
 ---
 
 ## Contact
 
-LinkedIn:
-https://www.linkedin.com/in/mauricio-behrens
+**LinkedIn**  
+[linkedin.com/in/mauricio-behrens](https://www.linkedin.com/in/mauricio-behrens)
 
-Email:
+**Email**  
 mauricio.esquivel1806@gmail.com
-
----
-
-## Vision
-To make technology a tool for inclusion, efficiency, and progress using data and innovation to build a better, fairer, and more human world.
-
-
