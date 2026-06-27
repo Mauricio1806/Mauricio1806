@@ -39,7 +39,7 @@
 
 ## About
 
-Data Engineer with 4+ years of experience across data engineering, analytics, business intelligence, and process-oriented problem solving.
+Data Engineer with 5+ years of experience across data engineering, analytics, business intelligence, and process-oriented problem solving.
 
 My work focuses on building and improving data systems that move from raw ingestion to trusted analytical consumption. This includes ETL/ELT pipelines, medallion architecture, cloud-based workflows, dimensional modeling, KPI automation, and production-style delivery practices across Azure and AWS environments.
 
